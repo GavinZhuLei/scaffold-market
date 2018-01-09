@@ -108,6 +108,33 @@
     "coverPicture": "https://ucarecdn.com/c1a43345-d5ed-4167-875c-4680471903f2/",
     "readme": "# chat\nA Chat Scaffold based on antd and dva:\n\nScreenshots:\n-----\n\n![](https://cloud.githubusercontent.com/assets/566097/21448864/2dc1a59c-c922-11e6-9b80-726593d8163d.png)\n\n![](https://cloud.githubusercontent.com/assets/566097/21494490/f28c2eb0-cc4c-11e6-83b8-723ae1423328.png)\n\nFirebase Structure\n-----\n\n```\nroot: {\n  conversations: { // conversations\n    '-2h6WJbFPBxUs15iB15DnSAIRTyP2-1482823102860': {\n      participants: {\n        '2h6WJbFPBxUs15iB15DnSAIRTyP2': user,\n        '1482823102860': user\n      },\n      chats: {\n        '-KZzCufnRDtS4h0q9fL': {\n          content: '',\n          time: '',\n          user: {}\n        }\n      }\n    },\n    ...\n  },\n  user: { // online users\n    '2h6WJbFPBxUs15iB15DnSAIRTyP2': user,\n    ...\n  }\n}\n```\n\n\nInstall\n------\n\n```\ngit clone https://github.com/RaoHai/chat.git\ncd chat\nnpm install\nnpm start // enjoy :D\n\n```\n"
   }, {
+    "name": "create-react-app-antd-mobile-starter",
+    "git_url": "git://github.com/xlsdg/create-react-app-antd-mobile-starter.git",
+    "author": "xlsdg",
+    "description": "Get started with create-react-app and antd-mobile.",
+    "tags": ["create-react-app ", "antd", "mobile"],
+    "coverPicture": null,
+    "readme": "# create-react-app-antd-mobile-starter\n\n> Get started with create-react-app and antd-mobile.\n",
+    "deployedAt": "2018-01-09T02:40:35.127Z"
+  }, {
+    "name": "create-react-app-antd-starter",
+    "git_url": "git://github.com/xlsdg/create-react-app-antd-starter.git",
+    "author": "xlsdg",
+    "description": "Get started with create-react-app and antd.",
+    "tags": ["create-react-app", "antd"],
+    "coverPicture": null,
+    "readme": "# create-react-app-antd-starter\n\n> Get started with create-react-app and antd.\n",
+    "deployedAt": "2018-01-09T02:39:54.372Z"
+  }, {
+    "name": "create-react-app-antd-typescript-starter",
+    "git_url": "git://github.com/xlsdg/create-react-app-antd-typescript-starter.git",
+    "author": "xlsdg",
+    "description": "Get started with create-react-app and antd.",
+    "tags": ["create-react-app ", "antd", "typescript"],
+    "coverPicture": null,
+    "readme": "# create-react-app-antd-typescript-starter\nGet started with create-react-app and antd.\n",
+    "deployedAt": "2018-01-09T02:41:09.583Z"
+  }, {
     "name": "duxianwei-react-spa",
     "git_url": "git://github.com/duxianwei520/react.git",
     "author": "duxianwei520",
@@ -152,6 +179,15 @@
     "coverPicture": "https://ucarecdn.com/8602e133-b80f-4616-bbc8-f8cba40b6254/",
     "readme": "# dva-antd-starter [![Build Status](https://travis-ci.org/xlsdg/dva-antd-starter.svg?branch=master)](https://travis-ci.org/xlsdg/dva-antd-starter)\n\n> Get started with Dva.js and Ant Design.\n\n![Screen Shot](screenshot.png)\n",
     "deployedAt": "2017-05-24T12:15:35.432Z"
+  }, {
+    "name": "dva-antd-typescript-starter",
+    "git_url": "git://github.com/xlsdg/dva-antd-typescript-starter.git",
+    "author": "xlsdg",
+    "description": "Get started with Dva.js and Ant Design.",
+    "tags": ["dva", "antd", "typescript"],
+    "coverPicture": null,
+    "readme": "# dva-antd-typescript-starter [![Build Status](https://travis-ci.org/xlsdg/dva-antd-typescript-starter.svg?branch=master)](https://travis-ci.org/xlsdg/dva-antd-typescript-starter)\n\n> Get started with Dva.js and Ant Design.\n",
+    "deployedAt": "2018-01-09T02:38:28.669Z"
   }, {
     "name": "dva-boot",
     "git_url": "git://github.com/LANIF-UI/dva-boot.git",
