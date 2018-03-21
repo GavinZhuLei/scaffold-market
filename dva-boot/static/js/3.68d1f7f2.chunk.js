@@ -1,2 +1,0 @@
-webpackJsonp([3],{308:function(e,s,t){"use strict";Object.defineProperty(s,"__esModule",{value:!0}),s.default={namespace:"userInfo",state:{info:{sex:"\u7537",age:"18"}},effects:{},reducers:{}}}});
-//# sourceMappingURL=3.68d1f7f2.chunk.js.map
